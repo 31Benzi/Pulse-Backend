@@ -1,0 +1,1992 @@
+{
+  "_activeDate": "2017-08-30T03:20:48.050Z",
+  "_locale": "en-US",
+  "_suggestedPrefetch": [],
+  "_templateName": "blank",
+  "_title": "Fortnite Game",
+  "athenamessage": {
+    "_activeDate": "2017-08-30T03:08:31.687Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameMOTD",
+    "_title": "athenamessage",
+    "lastModified": "2017-11-10T15:38:47.250Z",
+    "overrideablemessage": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+        "_type": "CommonUI Simple Message Base",
+        "body": "Test",
+        "image": "https://cdn2.unrealengine.com/Fortnite/RUS-Axe-1921x1082-fb41e51e9a280b9752b42e2b94b31e34d5758870.png",
+        "title": "Test"
+      }
+    }
+  },
+  "battlepassaboutmessages": {
+    "_activeDate": "2018-06-20T18:15:07.002Z",
+    "_locale": "en-US",
+    "_noIndex": false,
+    "_templateName": "FortniteGameMOTD",
+    "_title": "BattlePassAboutMessages",
+    "lastModified": "2019-10-14T20:42:20.253Z",
+    "news": {
+      "_type": "Battle Royale News",
+      "messages": [
+        {
+          "_type": "CommonUI Simple Message Base",
+          "body": "Play to level up your Battle Pass. Earn XP from a variety of in-game activities like searching chests, eliminating opponents, completing challenges, and more! Level up to unlock over 100 rewards including 1500 V-Bucks!. You can purchase the Battle Pass any time during the season for 950 V-Bucks and retroactively unlock any rewards up to your current level.",
+          "hidden": false,
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/11BR_Launch_Upsell_HowDoesItWork-1024x1024-faa688dad8111f0a944c351dd7b11e4bff3562aa.png",
+          "layout": "Right Image",
+          "spotlight": false,
+          "title": "HOW DOES IT WORK?"
+        },
+        {
+          "_type": "CommonUI Simple Message Base",
+          "body": "When you buy the Battle Pass, you’ll instantly receive two exclusive outfits - Turk and Journey! You can earn more exclusive rewards including Emotes, Outfits, Wraps, Pickaxes, Loading Screens and more. You’ll receive a reward each time you level up and for the first time, you can keep leveling up beyond level 100!",
+          "hidden": false,
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/11BR_Launch_Upsell_WhatsInside-(1)-1024x1024-68356adb3844b46ada633ace2d168af74b446f35.png",
+          "layout": "Left Image",
+          "spotlight": false,
+          "title": "WHAT’S INSIDE?"
+        },
+        {
+          "_type": "CommonUI Simple Message Base",
+          "body": "Battle Pass progression has been entirely reworked this Season. Advance your Battle Pass by completing challenges and earning in-game Medals! Earn daily medals and fill out your punch card to maximize your XP.",
+          "hidden": false,
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/11BR_Launch_Upsell_Badges-1024x1024-94b54a7e241b5747d83095feb1e6fc330c49689f.png",
+          "spotlight": false,
+          "title": "New This Season: Medals! "
+        }
+      ]
+    }
+  },
+  "battlepasspurchase": {
+    "_activeDate": "2024-12-01T01:00:00.000Z",
+    "_locale": "en-US",
+    "_noIndex": false,
+    "_templateName": "BattlePassPurchaseTemplate",
+    "_title": "BattlePassPurchase",
+    "battlePassPurchaseBackgroundURL": "https://cdn2.unrealengine.com/fnbr-s32-in-game-purchasescreen-10-21-24-purchase-chalked-1920x1080-64667f11c0be.jpg",
+    "battlePassPurchaseConfirmBackgroundURL": "https://cdn2.unrealengine.com/fnbr-s32-in-game-purchasescreen-10-21-24-purchaseconfirmation-chalked-1920x1080-0e8ba607e8cd.jpg",
+    "battlePassPurchaseDescription": "Level up to unlock over 50 rewards including: 5 Fortnite Style Outfits, 5 LEGO® Style Outfits, 3 Festival Jam Tracks, 2 Festival Instruments, 1 pair of Kicks and up to 1,000 V-Bucks back!",
+    "battlePassPurchaseDisclaimer": "Purchases of the Battle Pass are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Battle Pass: Remix through December 1 2:00am ET. 1 Discount bundle per season. Max level to purchase 10-level pack is 60. Unspent Battle Stars will automatically be exchanged for unclaimed Battle Pass rewards at the end of the season. Some rewards require quests to be completed in Battle Royale / Zero-Build mode in order to be earned. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+    "battlePassPurchaseLevelDisclaimer": "Level purchases are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Battle Pass: Remix through December 1 2:00 am ET. \n1 Discount bundle per season. Levels purchase only to 50 total in season.\nUnspent Battle Stars are automatically exchanged for unclaimed Battle Pass rewards at end of season. \nSome rewards require quests to be completed in Battle Royale / Zero-Build mode in order to be earned. \nNot all items are usable in all experiences. For more details on item variations and limitations, see fn.gg/cosmetics",
+    "battlePassScreenDisclaimer": "Not all cosmetics are usable in all experiences.\nBattle Pass: Remix through December 1 2:00 am ET.\nPlease note that all in-game rewards are not exclusive to Battle Pass and may be available in the Item Shop at a later date.",
+    "battlePassTileImages": {
+      "_type": "Crew Global Image",
+      "nextTileImageURL": "https://cdn2.unrealengine.com/fneco-32-10-subs-cranelaugh-ingame-bp-page-tile-1024x1024-1024x1024-814f3a81d759.png",
+      "tileImageURL": "https://cdn2.unrealengine.com/fneco-32-10-subs-cranelaugh-ingame-bp-page-tile-1024x1024-1024x1024-814f3a81d759.png"
+    },
+    "lastModified": "2024-11-26T22:43:43.228Z"
+  },
+  "shopSections": {
+    "jcr:isCheckedOut": true,
+    "_title": "shop-sections",
+    "sectionList": {
+      "_type": "ShopSectionList",
+      "sections": [
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 100,
+          "bHidden": false,
+          "sectionId": "Marvel",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel2",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel3",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel4",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel5",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel6",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel7",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 75,
+          "bHidden": false,
+          "sectionId": "GuildHenLocker",
+          "bShowTimer": true,
+          "sectionDisplayName": "Guild Hen's Locker",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 74,
+          "bHidden": false,
+          "sectionId": "FootballIcon",
+          "bShowTimer": true,
+          "sectionDisplayName": "Football Icons",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 70,
+          "bHidden": false,
+          "sectionId": "Featured",
+          "bShowTimer": true,
+          "sectionDisplayName": "Featured",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 64,
+          "bHidden": false,
+          "sectionId": "Featured2",
+          "bShowTimer": false,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 54,
+          "bHidden": false,
+          "sectionId": "Featured3",
+          "bShowTimer": true,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 65,
+          "bHidden": false,
+          "sectionId": "PizoLocker",
+          "bShowTimer": true,
+          "sectionDisplayName": "Pizo's Locker",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 65,
+          "bHidden": false,
+          "sectionId": "BenjyfishyLocker",
+          "bShowTimer": true,
+          "sectionDisplayName": "Benjyfishy's Locker",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 65,
+          "bHidden": false,
+          "sectionId": "NickEh30Locker",
+          "bShowTimer": true,
+          "sectionDisplayName": "NickEh30's Locker",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 60,
+          "bHidden": false,
+          "sectionId": "Daily",
+          "bShowTimer": true,
+          "sectionDisplayName": "Daily",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 59,
+          "bHidden": false,
+          "sectionId": "Daily2",
+          "bShowTimer": true,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 90,
+          "bHidden": false,
+          "sectionId": "CustomizeHero",
+          "bShowTimer": true,
+          "sectionDisplayName": "Customize Your Hero!",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 64,
+          "bHidden": false,
+          "sectionId": "HeroGear",
+          "bShowTimer": true,
+          "sectionDisplayName": "Hero Gear",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 90,
+          "bHidden": false,
+          "sectionId": "ShadowStrike",
+          "bShowTimer": true,
+          "sectionDisplayName": "Shadow Strike",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 65,
+          "bHidden": false,
+          "sectionId": "FootballIconB",
+          "bShowTimer": true,
+          "sectionDisplayName": "Football Icons",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 100,
+          "bHidden": false,
+          "sectionId": "MarvelB",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel2B",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel3B",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel4B",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel5B",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel6B",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel7B",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 75,
+          "bHidden": false,
+          "sectionId": "StartParty",
+          "bShowTimer": true,
+          "sectionDisplayName": "Start the Party!",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "StartParty2",
+          "bShowTimer": true,
+          "sectionDisplayName": "Start the Party!",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "GuildHenLockerB",
+          "bShowTimer": true,
+          "sectionDisplayName": "Guild Hen's Locker",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 54,
+          "bHidden": false,
+          "sectionId": "Cowboys",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cowboys",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 55,
+          "bHidden": false,
+          "sectionId": "Farm",
+          "bShowTimer": true,
+          "sectionDisplayName": "From the Farm",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 65,
+          "bHidden": false,
+          "sectionId": "BannerBrigade",
+          "bShowTimer": true,
+          "sectionDisplayName": "Banner Brigade",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "BannerBrigade2",
+          "bShowTimer": true,
+          "sectionDisplayName": "Banner Brigade",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 80,
+          "bHidden": false,
+          "sectionId": "MelloB",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marshmello",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "MelloC",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marshmello",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "MajorLazerB",
+          "bShowTimer": true,
+          "sectionDisplayName": "Major Lazer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "TurnMusicUpB",
+          "bShowTimer": true,
+          "sectionDisplayName": "Turn The Music Up",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "TurnMusicUp2B",
+          "bShowTimer": true,
+          "sectionDisplayName": "Turn The Music Up",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 75,
+          "bHidden": false,
+          "sectionId": "VaultShop",
+          "bShowTimer": true,
+          "sectionDisplayName": "Vaulted a Year or More",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "VaultShop2",
+          "bShowTimer": true,
+          "sectionDisplayName": "Vaulted a Year or More",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "VaultShop3",
+          "bShowTimer": true,
+          "sectionDisplayName": "Vaulted a Year or More",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 50,
+          "bHidden": false,
+          "sectionId": "SpecialB",
+          "bShowTimer": true,
+          "sectionDisplayName": "Special Offers",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 50,
+          "bHidden": false,
+          "sectionId": "Special",
+          "bShowTimer": true,
+          "sectionDisplayName": "Special Offers",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 49,
+          "bHidden": false,
+          "sectionId": "Special2",
+          "bShowTimer": true,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 48,
+          "bHidden": false,
+          "sectionId": "Special3",
+          "bShowTimer": true,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 47,
+          "bHidden": false,
+          "sectionId": "Special4",
+          "bShowTimer": true,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 46,
+          "bHidden": false,
+          "sectionId": "Special5",
+          "bShowTimer": true,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 45,
+          "bHidden": false,
+          "sectionId": "Special6",
+          "bShowTimer": true,
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 100,
+          "bHidden": false,
+          "sectionId": "DC",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 65,
+          "bHidden": false,
+          "sectionId": "DCB",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "DC2B",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "DC3B",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "DC4B",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "DC5B",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "DC6B",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "DC7B",
+          "bShowTimer": true,
+          "sectionDisplayName": "DC",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 64,
+          "bHidden": false,
+          "sectionId": "PartyGear",
+          "bShowTimer": true,
+          "sectionDisplayName": "Party Gear",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 64,
+          "bHidden": false,
+          "sectionId": "BannerGear",
+          "bShowTimer": true,
+          "sectionDisplayName": "Banner Gear",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 65,
+          "bHidden": false,
+          "sectionId": "CosmicSummer",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "CosmicSummer2",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "CosmicSummer3",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "CosmicSummer4",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "CosmicSummer5",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "CosmicSummer6",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "CosmicSummer7",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "CosmicSummer8",
+          "bShowTimer": true,
+          "sectionDisplayName": "Cosmic Summer",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 64,
+          "bHidden": false,
+          "sectionId": "MarvelC",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel2C",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel3C",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel4C",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel5C",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel6C",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 1,
+          "bHidden": false,
+          "sectionId": "Marvel7C",
+          "bShowTimer": true,
+          "sectionDisplayName": "Marvel",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "bHidden": false,
+          "sectionId": "Bundles",
+          "bShowTimer": true,
+          "sectionDisplayName": "Bundles",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "bHidden": false,
+          "sectionId": "Characters",
+          "bShowTimer": true,
+          "sectionDisplayName": "Outfits",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "bHidden": false,
+          "sectionId": "Backpacks",
+          "bShowTimer": true,
+          "sectionDisplayName": "Back Blings",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 0,
+          "bHidden": false,
+          "sectionId": "Pickaxes",
+          "bShowTimer": true,
+          "sectionDisplayName": "Harvesting Tools",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "bHidden": false,
+          "sectionId": "Gliders",
+          "bShowTimer": true,
+          "sectionDisplayName": "Gliders",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "bHidden": false,
+          "sectionId": "MusicPacks",
+          "bShowTimer": true,
+          "sectionDisplayName": "Music Packs",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "bHidden": false,
+          "sectionId": "Wraps",
+          "bShowTimer": true,
+          "sectionDisplayName": "Wraps",
+          "bShowIneligibleOffers": true
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": true,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 80,
+          "bHidden": false,
+          "sectionId": "LimitedTime",
+          "bShowTimer": false,
+          "sectionDisplayName": "Limited Time",
+          "bShowIneligibleOffers": false
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": false,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 90,
+          "bHidden": false,
+          "sectionId": "Battlepass",
+          "bShowTimer": false,
+          "sectionDisplayName": "Battle Pass",
+          "bShowIneligibleOffers": false
+        },
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": false,
+          "background": {
+            "stage": "summer",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "bHidden": false,
+          "sectionId": "Subscription",
+          "bShowTimer": false,
+          "sectionDisplayName": "Fortnite Crew",
+          "bShowIneligibleOffers": true
+        }
+      ]
+    },
+    "_noIndex": false,
+    "jcr:baseVersion": "a7ca237317f1e77453e266-613d-435e-9dd1-f549c0255030",
+    "_activeDate": "2021-06-21T23:00:00.000Z",
+    "lastModified": "2021-06-21T16:08:13.601Z",
+    "_locale": "en-US"
+  },
+  "battleroyalenews": {
+    "_activeDate": "2020-01-21T14:00:00.000Z",
+    "_locale": "en-US",
+    "_noIndex": false,
+    "_templateName": "FortniteGameMOTD",
+    "_title": "battleroyalenews",
+    "alwaysShow": false,
+    "header": "",
+    "lastModified": "2021-09-12T17:34:19.796Z",
+    "news": {
+      "_type": "Battle Royale News",
+      "messages": [
+        {
+          "_type": "CommonUI Simple Message Base",
+          "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+          "hidden": false,
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+          "messagetype": "normal",
+          "spotlight": false,
+          "title": "Keep Your Account Secure"
+        }
+      ],
+      "platform_motds": [
+        {
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "hidden": false,
+          "message": {
+            "_type": "CommonUI Simple Message MOTD",
+            "body": "",
+            "entryType": "Text",
+            "hidden": true,
+            "id": "Apple Sustained Release",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "spotlight": false,
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "title": "Chapter 2 - Season 4 Notice",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "videoLoop": false,
+            "videoMute": false,
+            "videoStreamingEnabled": false
+          },
+          "platform": "mac"
+        },
+        {
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "hidden": false,
+          "message": {
+            "_type": "CommonUI Simple Message MOTD",
+            "body": "With the launch of Season 4, players on Google Play will be unable to play the current Season. On this platform, players can still play version v13.40.",
+            "entryType": "Text",
+            "hidden": true,
+            "id": "Google Sustained Release",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "spotlight": false,
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "title": "Chapter 2 - Season 4 Notice",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "videoLoop": false,
+            "videoMute": false,
+            "videoStreamingEnabled": false
+          },
+          "platform": "androidGP"
+        },
+        {
+          "_type": "CommonUI Simple Message MOTD Platform",
+          "hidden": false,
+          "message": {
+            "_type": "CommonUI Simple Message MOTD",
+            "body": "",
+            "entryType": "Text",
+            "hidden": true,
+            "id": "Apple Sustained Release",
+            "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+            "spotlight": false,
+            "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+            "title": "Chapter 2 - Season 4 Notice",
+            "videoAutoplay": false,
+            "videoFullscreen": false,
+            "videoLoop": false,
+            "videoMute": false,
+            "videoStreamingEnabled": false
+          },
+          "platform": "ios"
+        }
+      ]
+    },
+    "style": "None"
+  },
+  "battleroyalenewsv2": {
+    "_activeDate": "2020-01-21T14:00:00.000Z",
+    "_locale": "en-US",
+    "_noIndex": false,
+    "_templateName": "FortniteGameMOTD",
+    "_title": "battleroyalenewsv2",
+    "alwaysShow": false,
+    "lastModified": "2022-02-01T14:59:07.306Z",
+    "news": {
+      "_type": "Battle Royale News v2",
+      "motds": []
+    }
+  },
+  "dynamicbackgrounds": {
+    "_activeDate": "2023-11-03T07:30:00.000Z",
+    "_locale": "en-US",
+    "_noIndex": false,
+    "_templateName": "FortniteGameDynamicBackgrounds",
+    "_title": "dynamicbackgrounds",
+    "backgrounds": {
+      "_type": "DynamicBackgroundList",
+      "backgrounds": [
+        {
+          "_type": "DynamicBackground",
+          "key": "lobby",
+          "stage": ""
+        },
+        {
+          "_type": "DynamicBackground",
+          "key": "vault",
+          "stage": "default"
+        }
+      ]
+    },
+    "lastModified": "2025-02-21T09:04:10.733Z"
+  },
+
+  "lastModified": "2025-04-21T19:10:11.378Z",
+  "lobby": {
+    "_activeDate": "2019-05-31T21:24:39.892Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameLobby",
+    "_title": "lobby",
+    "backgroundimage": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/lobby/T_Lobby_SeasonX-2048x1024-24e02780ed533da8001016f4e6fb14dd15e2f860.png",
+    "lastModified": "2019-07-22T21:24:17.119Z",
+    "stage": "seasonx"
+  },
+  "loginmessage": {
+    "_activeDate": "2017-07-19T13:14:04.490Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameMOTD",
+    "_title": "LoginMessage",
+    "lastModified": "2018-03-15T07:10:22.222Z",
+    "loginmessage": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+        "_type": "CommonUI Simple Message Base",
+        "body": "",
+        "title": ""
+      }
+    }
+  },
+  "subgameinfo": {
+    "_activeDate": "2019-11-05T05:00:00.000Z",
+    "_locale": "en-US",
+    "_noIndex": false,
+    "_templateName": "SubgameInfo",
+    "_title": "SubgameInfo",
+    "battleroyale": {
+      "_type": "Subgame Info",
+      "color": "5b2569",
+      "description": "100 Player PvP",
+      "image": "",
+      "standardMessageLine1": "",
+      "standardMessageLine2": "",
+      "subgame": "battleroyale",
+      "title": "Battle Royale"
+    },
+    "creative": {
+      "_type": "Subgame Info",
+      "color": "0658b9",
+      "description": "Your Islands. Your Friends. Your Rules.",
+      "image": "https://cdn2.unrealengine.com/subgameselect-cr-512x1024-371f42541731.png",
+      "standardMessageLine1": "",
+      "subgame": "creative",
+      "title": "Creative"
+    },
+    "lastModified": "2022-01-06T13:12:53.445Z",
+    "savetheworld": {
+      "_type": "Subgame Info",
+      "color": "7615E9FF",
+      "description": "Cooperative PvE Adventure",
+      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/StW/09_SubgameSelect_Default_StW-512x1024-e47f51e25cbe9943678b9221056a808e81da40e3.jpg",
+      "specialMessage": "",
+      "standardMessageLine1": "",
+      "standardMessageLine2": "",
+      "subgame": "savetheworld",
+      "title": "Save The World"
+    }
+  },
+  "subgameselectdata": {
+    "_activeDate": "2017-10-11T18:37:23.145Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameSubgameSelectData",
+    "_title": "subgameselectdata",
+    "battleRoyale": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+        "_type": "CommonUI Simple Message Base",
+        "body": "100 Player PvP Battle Royale.\n\nPvE progress does not affect Battle Royale.",
+        "hidden": false,
+        "messagetype": "normal",
+        "spotlight": false,
+        "title": "100 Player PvP"
+      }
+    },
+    "creative": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+        "_type": "CommonUI Simple Message Base",
+        "body": "Your Island. Your Friends. Your Rules.\n\nDiscover new ways to play Fortnite, play community made games with friends and build your dream island.",
+        "hidden": false,
+        "messagetype": "normal",
+        "spotlight": false,
+        "title": "New Featured Islands!"
+      }
+    },
+    "lastModified": "2019-05-06T12:59:15.974Z",
+    "saveTheWorld": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+        "_type": "CommonUI Simple Message Base",
+        "body": "Cooperative PvE storm-fighting adventure!",
+        "hidden": false,
+        "messagetype": "normal",
+        "spotlight": false,
+        "title": "Co-op PvE"
+      }
+    },
+    "saveTheWorldUnowned": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+        "_type": "CommonUI Simple Message Base",
+        "body": "Cooperative PvE storm-fighting adventure!",
+        "hidden": false,
+        "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameselect/STW/08StW_BombsquadKyle_SubgameSelect-1920x1080-4e747f76f1ec82f49481d83331586ce401bb4c73.jpg",
+        "messagetype": "normal",
+        "spotlight": false,
+        "title": "Co-op PvE"
+      }
+    }
+  },
+  "tournamentinformation": {
+    "tournament_info": {
+      "tournaments": [],
+      "_type": "Tournaments Info"
+    },
+    "_title": "tournamentinformation",
+    "_noIndex": false,
+    "_activeDate": "2018-11-13T22:32:47.734Z",
+    "lastModified": "2019-11-01T17:33:35.346Z",
+    "_locale": "en-US"
+  },
+  "playlistinformation": {
+    "frontend_matchmaking_header_style": "None",
+    "_title": "playlistinformation",
+    "frontend_matchmaking_header_text": "",
+    "playlist_info": {
+      "_type": "Playlist Information",
+      "playlists": [
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_nobuildbr_duo/showcase.png",
+          "playlist_name": "Playlist_NoBuildBR_Duo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "No description available."
+        },
+        {
+          "image": "https://cdn.bynd.lol/PlaylistImages/S9/Playlist_DefaultSolo.png",
+          "playlist_name": "Playlist_DefaultSolo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Go it alone in a battle to be the last one standing."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_nobuildbr_solo/showcase.png",
+          "playlist_name": "Playlist_NoBuildBR_Solo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Go it alone in a battle to be the last one standing."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_defaultsquad/showcase.png",
+          "playlist_name": "Playlist_DefaultSquad",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Group up and outlast all of the other squads gunning for victory."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_nobuildbr_squad/showcase.png",
+          "playlist_name": "Playlist_NoBuildBR_Squad",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Group up and outlast all of the other squads gunning for victory."
+        },
+        {
+          "image": "https://cdn.bynd.lol/PlaylistImages/S9/Playlist_DefaultDuo.png",
+          "playlist_name": "Playlist_DefaultDuo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Pair up with a buddy and take everyone else down."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_solidgold_solo/showcase.png",
+          "playlist_name": "Playlist_SolidGold_Solo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "All weapon drops are Legendary!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_solidgold_squads/showcase.png",
+          "playlist_name": "Playlist_SolidGold_Squads",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "All weapon drops are Legendary!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_solidgold_trios/showcase.png",
+          "playlist_name": "Playlist_SolidGold_Trios",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "All weapon drops are Legendary!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_solidgold_duos/showcase.png",
+          "playlist_name": "Playlist_SolidGold_Duos",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "All weapon drops are Legendary!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_trios/showcase.png",
+          "playlist_name": "Playlist_Trios",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Classic Battle Royale with Three-Person Squads."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_nobuildbr_trio/showcase.png",
+          "playlist_name": "Playlist_NoBuildBR_Trio",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Classic Battle Royale with Three-Person Squads."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_respawn_24_alt/showcase.png",
+          "playlist_name": "Playlist_Respawn_24_Alt",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Two large teams fight for the Victory Royale in an action-packed mode where the first team to get the target number of eliminations wins! \r\n\r\nRespawn on elimination is ON for the entire match, and gliders can be freely deployed whenever you are far enough from the ground."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_respawn_24/showcase.png",
+          "playlist_name": "Playlist_Respawn_24",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Two large teams fight for the Victory Royale in an action-packed mode where the first team to get the target number of eliminations wins! \r\n\r\nRespawn on elimination is ON for the entire match, and gliders can be freely deployed whenever you are far enough from the ground."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_papaya/showcase.png",
+          "playlist_name": "Playlist_Papaya",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Welcome to the Party! Leave your weapons and mats behind and hang out with friends, play games, perfect your skydive and more. The party’s just getting started!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_toss_solo/showcase.png",
+          "playlist_name": "Playlist_Toss_Solo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_toss_trios/showcase.png",
+          "playlist_name": "Playlist_Toss_Trios",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_toss_duos/showcase.png",
+          "playlist_name": "Playlist_Toss_Duos",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_toss_squads/showcase.png",
+          "playlist_name": "Playlist_Toss_Squads",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_melt_solo/showcase.png",
+          "playlist_name": "Playlist_Melt_Solo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_meltdisarmed_solo/showcase.png",
+          "playlist_name": "Playlist_MeltDisarmed_Solo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_melt_duos/showcase.png",
+          "playlist_name": "Playlist_Melt_Duos",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_melt_squads/showcase.png",
+          "playlist_name": "Playlist_Melt_Squads",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Midas may have escaped the Underworld, but none left behind will escape his wrath. On his way towards freedom he enchanted lava with his cursed golden touch, leaving behind the ultimate challenge for immortals and aspiring SHADOW agents alike. Rise to survive his wrathful retribution, and witness the dawning of a new golden era."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_meltdisarmed_squads/showcase.png",
+          "playlist_name": "Playlist_MeltDisarmed_Squads",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_melt_trios/showcase.png",
+          "playlist_name": "Playlist_Melt_Trios",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!"
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_meltdisarmed_trios/showcase.png",
+          "playlist_name": "Playlist_MeltDisarmed_Trios",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!"
+        },
+
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_showdownalt_duos/showcase.png",
+          "playlist_name": "Playlist_ShowdownAlt_Duos",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Prove your skill in this competitive mode! During each match, you'll earn Hype by either achieving high placements or eliminating opponents. As you gain Hype, you'll compete against tougher opponents with similar skill level. Note: If you leave an Arena Fill match before your team is eliminated, you will only earn the Hype that was accumulated by your team before leaving the match. You must remain in the match to continue accumulating Hype that's earned by your team."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_showdownalt_duos/showcase.png",
+          "playlist_name": "Playlist_ShowdownAlt_Solo",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Prove your skill in this competitive mode! During each match, you'll earn Hype by either achieving high placements or eliminating opponents. As you gain Hype, you'll compete against tougher opponents with similar skill level. Note: If you leave an Arena Fill match before your team is eliminated, you will only earn the Hype that was accumulated by your team before leaving the match. You must remain in the match to continue accumulating Hype that's earned by your team."
+        },
+        {
+          "image": "https://fortnite-api.com/images/playlists/playlist_mash_squads_legacy/showcase.png",
+          "playlist_name": "Playlist_Mash_Squads_Legacy",
+          "violator": "",
+          "_type": "FortPlaylistInfo",
+          "description": "Cube Monsters are on the attack! Can your squad survive? Fight alongside your teammates to rack up your score by finding score multipliers, earning combos, and eliminating as many monsters as you can. Traverse across the map, survive at new locations and take down the Final Boss to win!\r\n\r\nCan you make it all the way to the end and set a new high score? Ready up and find out!"
+        }
+      ]
+    }
+  }
+}
