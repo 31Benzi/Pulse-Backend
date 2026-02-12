@@ -1,7 +1,7 @@
 ## Can someone give it fucking star
 ## Skid it if you want
 
-##Dont forget to star Better Reload
+## Dont forget to star Better Reload
 https://github.com/31Benzi/Better-Reload
 
 # fortmp-backend
