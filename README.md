@@ -1,10 +1,7 @@
-## Can someone give it fucking star
-## Skid it if you want
+# Project Pulse Backend
+This backend costs around 200$ and its better version of FortMP
 
-## Dont forget to star Better Reload
-https://github.com/31Benzi/Better-Reload
-
-# fortmp-backend
+# Pulse Backend
 
 To install dependencies:
 
