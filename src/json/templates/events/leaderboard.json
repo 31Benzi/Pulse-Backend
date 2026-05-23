@@ -1,0 +1,34 @@
+{
+  "gameId": "Fortnite",
+  "eventId": "fortmptournamentidlol",
+  "eventWindowId": "fortmpwindowidlol",
+  "page": 0,
+  "totalPages": 1,
+  "updatedTime": "2018-10-16T20:00:00Z",
+  "entryTemplate": {
+    "gameId": "Fortnite",
+    "eventId": "fortmptournamentidlol",
+    "eventWindowId": "fortmpwindowidlol",
+    "teamAccountIds": [],
+    "pointsEarned": 1,
+    "score": 1.0,
+    "rank": 1,
+    "percentile": 0.1,
+    "tokens": ["GroupIdentity_GeoIdentity_fortnite"],
+    "teamId": "",
+    "liveSessionId": null,
+    "pointBreakdown": {
+      "PLACEMENT_STAT_INDEX:13": {
+        "timesAchieved": 1,
+        "pointsEarned": 2
+      },
+      "TEAM_ELIMS_STAT_INDEX:37": {
+        "timesAchieved": 2,
+        "pointsEarned": 8
+      }
+    },
+    "sessionHistory": []
+  },
+  "entries": [],
+  "liveSessions": {}
+}

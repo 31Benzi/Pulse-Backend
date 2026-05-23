@@ -1,0 +1,408 @@
+[
+  {
+    "characterCID": "CID_A_168_Athena_Commando_F_Stands",
+    "derivedDisplayAssetName": "DAv2_CID_A_168_F_Stands",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_168_F_Stands",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_168_F_Stands"
+  },
+  {
+    "characterCID": "CID_A_175_Athena_Commando_M_AlienSummer",
+    "derivedDisplayAssetName": "DAv2_CID_A_175_M_AlienSummer",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_175_M_AlienSummer",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_175_M_AlienSummer"
+  },
+  {
+    "characterCID": "CID_A_119_Athena_Commando_M_Golf",
+    "derivedDisplayAssetName": "DAv2_CID_A_119_M_Golf",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_119_M_Golf",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_119_M_Golf"
+  },
+  {
+    "characterCID": "CID_A_129_Athena_Commando_M_CatBurglarSummer",
+    "derivedDisplayAssetName": "DAv2_CID_A_129_M_CatBurglarSummer",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_129_M_CatBurglarSummer",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_129_M_CatBurglarSummer"
+  },
+  {
+    "characterCID": "CID_A_127_Athena_Commando_F_MechanicalEngineerSummer",
+    "derivedDisplayAssetName": "DAv2_CID_A_127_F_MechanicalEngineerSummer",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_127_F_MechanicalEngineerSummer",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_127_F_MechanicalEngineerSummer"
+  },
+  {
+    "characterCID": "CID_A_135_Athena_Commando_F_StreetFashionSummer",
+    "derivedDisplayAssetName": "DAv2_CID_A_135_F_StreetFashionSummer",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_135_F_StreetFashionSummer",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_135_F_StreetFashionSummer"
+  },
+  {
+    "characterCID": "CID_A_163_Athena_Commando_M_Stands",
+    "derivedDisplayAssetName": "DAv2_CID_A_163_M_Stands",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_163_M_Stands",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_163_M_Stands"
+  },
+  {
+    "characterCID": "CID_A_147_Athena_Commando_F_Pliant",
+    "derivedDisplayAssetName": "DAv2_CID_A_147_F_Pliant",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_147_F_Pliant",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_147_F_Pliant"
+  },
+  {
+    "characterCID": "CID_A_131_Athena_Commando_F_JurassicArchaeologySummer",
+    "derivedDisplayAssetName": "DAv2_CID_A_131_F_JurassicArchaeologySummer",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_131_F_JurassicArchaeologySummer",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_131_F_JurassicArchaeologySummer"
+  },
+  {
+    "characterCID": "CID_A_141_Athena_Commando_M_Dojo",
+    "derivedDisplayAssetName": "DAv2_CID_A_141_M_Dojo",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_141_M_Dojo",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_141_M_Dojo"
+  },
+  {
+    "characterCID": "CID_A_124_Athena_Commando_M_CavernArmored",
+    "derivedDisplayAssetName": "DAv2_CID_A_124_M_CavernArmored",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_124_M_CavernArmored",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_124_M_CavernArmored"
+  },
+  {
+    "characterCID": "CID_A_142_Athena_Commando_M_Pliant",
+    "derivedDisplayAssetName": "DAv2_CID_A_142_M_Pliant",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_142_M_Pliant",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_142_M_Pliant"
+  },
+  {
+    "characterCID": "CID_A_152_Athena_Commando_F_Musician",
+    "derivedDisplayAssetName": "DAv2_CID_A_152_F_Musician",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_152_F_Musician",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_152_F_Musician"
+  },
+  {
+    "characterCID": "CID_A_160_Athena_Commando_M_SeesawSlipper",
+    "derivedDisplayAssetName": "DAv2_CID_A_160_M_SeesawSlipper",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_160_M_SeesawSlipper",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_160_M_SeesawSlipper"
+  },
+  {
+    "characterCID": "CID_A_108_Athena_Commando_M_LassoPolo_8GAM0",
+    "derivedDisplayAssetName": "DAv2_CID_A_108_M_LassoPolo",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_108_M_LassoPolo",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_108_M_LassoPolo"
+  },
+  {
+    "characterCID": "CID_A_107_Athena_Commando_M_Lasso_JHZA3",
+    "derivedDisplayAssetName": "DAv2_CID_A_107_M_Lasso",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_107_M_Lasso",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_107_M_Lasso"
+  },
+  {
+    "characterCID": "CID_A_140_Athena_Commando_M_BlueCheese",
+    "derivedDisplayAssetName": "DAv2_CID_A_140_M_BlueCheese",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_140_M_BlueCheese",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_140_M_BlueCheese"
+  },
+  {
+    "characterCID": "CID_A_125_Athena_Commando_M_Firecracker",
+    "derivedDisplayAssetName": "DAv2_CID_A_125_M_Firecracker",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_125_M_Firecracker",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_125_M_Firecracker"
+  },
+  {
+    "characterCID": "CID_A_130_Athena_Commando_M_HenchmanSummer",
+    "derivedDisplayAssetName": "DAv2_CID_A_130_M_HenchmanSummer",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_130_M_HenchmanSummer",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_130_M_HenchmanSummer"
+  },
+  {
+    "characterCID": "CID_A_128_Athena_Commando_M_Menace",
+    "derivedDisplayAssetName": "DAv2_CID_A_128_M_Menace",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_128_M_Menace",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_128_M_Menace"
+  },
+  {
+    "characterCID": "CID_A_100_Athena_Commando_M_Downpour_KC39P",
+    "derivedDisplayAssetName": "DAv2_CID_A_100_M_Downpour",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_100_M_Downpour",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_100_M_Downpour"
+  },
+  {
+    "characterCID": "CID_A_103_Athena_Commando_M_Grim_VM52M",
+    "derivedDisplayAssetName": "DAv2_CID_A_103_M_Grim",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_103_M_Grim",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_103_M_Grim"
+  },
+  {
+    "characterCID": "CID_A_094_Athena_Commando_F_Cavern_33LMC",
+    "derivedDisplayAssetName": "DAv2_CID_A_094_F_Cavern",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_094_F_Cavern",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_094_F_Cavern"
+  },
+  {
+    "characterCID": "CID_A_085_Athena_Commando_F_Hardwood_K7ZZ1",
+    "derivedDisplayAssetName": "DAv2_CID_A_085_F_Hardwood",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_085_F_Hardwood",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_085_F_Hardwood"
+  },
+  {
+    "characterCID": "CID_A_080_Athena_Commando_M_Hardwood_I15AL",
+    "derivedDisplayAssetName": "DAv2_CID_A_080_M_Hardwood",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_080_M_Hardwood",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_080_M_Hardwood"
+  },
+  {
+    "characterCID": "CID_A_118_Athena_Commando_M_JonesyCattle",
+    "derivedDisplayAssetName": "DAv2_CID_A_118_M_JonesyCattle",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_118_M_JonesyCattle",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_118_M_JonesyCattle"
+  },
+  {
+    "characterCID": "CID_A_117_Athena_Commando_F_Rockstar",
+    "derivedDisplayAssetName": "DAv2_CID_A_117_F_Rockstar",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_117_F_Rockstar",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_117_F_Rockstar"
+  },
+  {
+    "characterCID": "CID_A_106_Athena_Commando_F_FuturePinkGoal",
+    "derivedDisplayAssetName": "DAv2_CID_A_106_F_FuturePinkGoal",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_106_F_FuturePinkGoal",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_106_F_FuturePinkGoal"
+  },
+  {
+    "characterCID": "CID_A_104_Athena_Commando_M_TowerSentinel",
+    "derivedDisplayAssetName": "DAv2_CID_A_104_M_TowerSentinel",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_104_M_TowerSentinel",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_104_M_TowerSentinel"
+  },
+  {
+    "characterCID": "CID_A_098_Athena_Commando_F_SpartanFuture",
+    "derivedDisplayAssetName": "DAv2_CID_A_098_F_SpartanFuture",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_098_F_SpartanFuture",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_098_F_SpartanFuture"
+  },
+  {
+    "characterCID": "CID_A_097_Athena_Commando_F_WastelandWarrior",
+    "derivedDisplayAssetName": "DAv2_CID_A_097_F_WastelandWarrior",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_097_F_WastelandWarrior",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_097_F_WastelandWarrior"
+  },
+  {
+    "characterCID": "CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor",
+    "derivedDisplayAssetName": "DAv2_CID_A_096_F_TaxiUpgradedMulticolor",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_096_F_TaxiUpgradedMulticolor",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_096_F_TaxiUpgradedMulticolor"
+  },
+  {
+    "characterCID": "CID_A_095_Athena_Commando_M_DoubleAgentGrey",
+    "derivedDisplayAssetName": "DAv2_CID_A_095_M_DoubleAgentGrey",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_095_M_DoubleAgentGrey",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_095_M_DoubleAgentGrey"
+  },
+  {
+    "characterCID": "CID_A_092_Athena_Commando_M_Broccoli_PR297",
+    "derivedDisplayAssetName": "DAv2_CID_A_092_M_Broccoli",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_092_M_Broccoli",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_092_M_Broccoli"
+  },
+  {
+    "characterCID": "CID_A_091_Athena_Commando_F_DarkElf",
+    "derivedDisplayAssetName": "DAv2_CID_A_091_F_DarkElf",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_091_F_DarkElf",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_091_F_DarkElf"
+  },
+  {
+    "characterCID": "CID_A_090_Athena_Commando_M_Caveman",
+    "derivedDisplayAssetName": "DAv2_CID_A_090_M_Caveman",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_090_M_Caveman",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_090_M_Caveman"
+  },
+  {
+    "characterCID": "CID_A_079_Athena_Commando_M_RaptorKnight",
+    "derivedDisplayAssetName": "DAv2_CID_A_079_M_RaptorKnight",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_079_M_RaptorKnight",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_079_M_RaptorKnight"
+  },
+  {
+    "characterCID": "CID_A_077_Athena_Commando_F_ArmoredEngineer",
+    "derivedDisplayAssetName": "DAv2_CID_A_077_F_ArmoredEngineer",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_077_F_ArmoredEngineer",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_077_F_ArmoredEngineer"
+  },
+  {
+    "characterCID": "CID_A_076_Athena_Commando_F_DinoCollector",
+    "derivedDisplayAssetName": "DAv2_CID_A_076_F_DinoCollector",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_076_F_DinoCollector",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_076_F_DinoCollector"
+  },
+  {
+    "characterCID": "CID_A_069_Athena_Commando_M_Accumulate",
+    "derivedDisplayAssetName": "DAv2_CID_A_069_M_Accumulate",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_069_M_Accumulate",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_069_M_Accumulate"
+  },
+  {
+    "characterCID": "CID_A_068_Athena_Commando_M_TerrainMan",
+    "derivedDisplayAssetName": "DAv2_CID_A_068_M_TerrainMan",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_068_M_TerrainMan",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_068_M_TerrainMan"
+  },
+  {
+    "characterCID": "CID_A_064_Athena_Commando_F_SurvivalSpecialistAutumn",
+    "derivedDisplayAssetName": "DAv2_CID_A_064_F_SurvivalSpecialistAutumn",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_064_F_SurvivalSpecialistAutumn",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_064_F_SurvivalSpecialistAutumn"
+  },
+  {
+    "characterCID": "CID_A_063_Athena_Commando_F_CottonCandy",
+    "derivedDisplayAssetName": "DAv2_CID_A_063_F_CottonCandy",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_063_F_CottonCandy",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_063_F_CottonCandy"
+  },
+  {
+    "characterCID": "CID_A_059_Athena_Commando_M_WickedDuck",
+    "derivedDisplayAssetName": "DAv2_CID_A_059_M_WickedDuck",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_059_M_WickedDuck",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_059_M_WickedDuck"
+  },
+  {
+    "characterCID": "CID_A_058_Athena_Commando_F_WickedDuck",
+    "derivedDisplayAssetName": "DAv2_CID_A_058_F_WickedDuck",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_058_F_WickedDuck",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_058_F_WickedDuck"
+  },
+  {
+    "characterCID": "CID_A_057_Athena_Commando_F_TheGoldenSkeleton",
+    "derivedDisplayAssetName": "DAv2_CID_A_057_F_TheGoldenSkeleton",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_057_F_TheGoldenSkeleton",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_057_F_TheGoldenSkeleton"
+  },
+  {
+    "characterCID": "CID_A_052_Athena_Commando_F_BunnyFashion",
+    "derivedDisplayAssetName": "DAv2_CID_A_052_F_BunnyFashion",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_052_F_BunnyFashion",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_052_F_BunnyFashion"
+  },
+  {
+    "characterCID": "CID_A_051_Athena_Commando_M_HipHare",
+    "derivedDisplayAssetName": "DAv2_CID_A_051_M_HipHare",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_051_M_HipHare",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_051_M_HipHare"
+  },
+  {
+    "characterCID": "CID_A_045_Athena_Commando_M_BananaLeader",
+    "derivedDisplayAssetName": "DAv2_CID_A_045_M_BananaLeader",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_045_M_BananaLeader",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_045_M_BananaLeader"
+  },
+  {
+    "characterCID": "CID_A_043_Athena_Commando_M_DarkMinion",
+    "derivedDisplayAssetName": "DAv2_CID_A_043_M_DarkMinion",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_043_M_DarkMinion",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_043_M_DarkMinion"
+  },
+  {
+    "characterCID": "CID_A_042_Athena_Commando_F_Scholar",
+    "derivedDisplayAssetName": "DAv2_CID_A_042_F_Scholar",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_042_F_Scholar",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_042_F_Scholar"
+  },
+  {
+    "characterCID": "CID_A_032_Athena_Commando_M_SpaceWarrior",
+    "derivedDisplayAssetName": "DAv2_CID_A_032_M_SpaceWarrior",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_032_M_SpaceWarrior",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_032_M_SpaceWarrior"
+  },
+  {
+    "characterCID": "CID_A_031_Athena_Commando_M_Builder",
+    "derivedDisplayAssetName": "DAv2_CID_A_031_M_Builder",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_031_M_Builder",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_031_M_Builder"
+  },
+  {
+    "characterCID": "CID_A_028_Athena_Commando_F_AncientGladiator",
+    "derivedDisplayAssetName": "DAv2_CID_A_028_F_AncientGladiator",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_028_F_AncientGladiator",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_028_F_AncientGladiator"
+  },
+  {
+    "characterCID": "CID_A_027_Athena_Commando_F_CasualBomberLight",
+    "derivedDisplayAssetName": "DAv2_CID_A_027_F_CasualBomberLight",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_027_F_CasualBomberLight",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_027_F_CasualBomberLight"
+  },
+  {
+    "characterCID": "CID_A_022_Athena_Commando_F_Crush",
+    "derivedDisplayAssetName": "DAv2_CID_A_022_F_Crush",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_022_F_Crush",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_022_F_Crush"
+  },
+  {
+    "characterCID": "CID_A_011_Athena_Commando_M_StreetCuddles",
+    "derivedDisplayAssetName": "DAv2_CID_A_011_M_StreetCuddles",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_011_M_StreetCuddles",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_011_M_StreetCuddles"
+  },
+  {
+    "characterCID": "CID_A_008_Athena_Commando_F_CombatDoll",
+    "derivedDisplayAssetName": "DAv2_CID_A_008_F_CombatDoll",
+    "expectedDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_008_F_CombatDoll",
+    "status": "Found",
+    "foundDisplayAssetPath": "Game/Catalog/NewDisplayAssets/DAv2_CID_A_008_F_CombatDoll"
+  }
+]
